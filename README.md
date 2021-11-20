@@ -11,7 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- Desktop
+
+![](ss/screencapture-127-0-0-1-5500-index-html-2021-11-20-23_54_11.png)
+
+- Mobile
+
+![](ss/screencapture-127-0-0-1-5500-index-html-2021-11-20-23_56_24.png)
 
 
 ### Links
